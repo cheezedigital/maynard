@@ -6,3 +6,32 @@ body {
   background-size: cover;
   color: #ffffff;
 }
+
+.maynard {
+  width: 500px;
+  margin: 50px;
+  background: rgba(0,0,0,0.5);
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.lists {
+  width: 500px;
+  margin: 50px;
+  background: rgba(0,0,0,0.5);
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.contact1 {
+  width: 50px;
+  margin: 50px;
+  background: rgba(0,0,0,0.5);
+  padding: 20px;
+  border-radius: 10px;
+  color: #FFFFFF;
+}
+
+ul {
+  list-style-type: none;
+}
